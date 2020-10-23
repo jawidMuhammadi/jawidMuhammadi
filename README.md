@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm Ahmad Jawid Muhammadi. An Android Engineer at [Klizo](https://klizos.com/) and also an active contributer of [Mifos Initiative](https://mifos.org/) organiztion. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Ahmad Jawid Muhammadi An Android Engineer at [Klizo](https://klizos.com/). Founder of [Spotlight Technologies](https://play.google.com/store/apps/developer?id=Spotlight+Technologies&hl=en_IN&gl=US) and also a contributor to the [Mifos](https://mifos.org/) organization. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally post about android. Also open sourced few android related stuff.  
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->..
+
 -->
