@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
+<br/>
+<a href="https://github.com/jawidMuhammadi?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jawidMuhammadi&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="jawidMuhammadi's github stats"/>
+</a>
 
 ## About me
 
