@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
+## About me
+
+I'm Ahmad Jawid Muhammadi. An Android Engineer at [Klizo](https://klizos.com/) and also an active contributer of [Mifos Initiative](https://mifos.org/) organiztion. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally post about android. Also open sourced few android related stuff.  
+
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Android related things and tech in general on [Facebook](https://www.facebook.com/ahmadjawid.sancharaki).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/jawidmuhammadi)
+- And of course GitHub you're already on (Recursion).
+
 
 <!--
 **jawidMuhammadi/jawidMuhammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->..
 -->
