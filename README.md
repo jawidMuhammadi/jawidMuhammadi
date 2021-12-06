@@ -21,7 +21,7 @@ I ocassionally post about android. Also open sourced few android related stuff.
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Facebook](https://www.facebook.com/ahmadjawid.sancharaki).
+- Your future buddy to discuss Android related things and tech in general on [twitter](https://twitter.com/muhammadi_jawid).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/jawidmuhammadi)
 - And of course GitHub you're already on (Recursion).
 
