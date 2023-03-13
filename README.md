@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Ahmad Jawid Muhammadi working as an Android Developer at [Ocado Technology](https://www.ocadogroup.com/technology/development-centres/barcelona/) in Barcelona, Spain. Founder of [Spotlight Technologies](https://play.google.com/store/apps/developer?id=Spotlight+Technologies&hl=en_IN&gl=US), contributor, maintainer and mentor at the [Mifos Initiative](https://mifos.org/) organization.
+I'm Ahmad Jawid Muhammadi working as an Android Developer at [Ocado Technology](https://www.ocadogroup.com/technology/development-centres/barcelona/) in Barcelona, Spain. Founder of [Spotlight Technologies](https://play.google.com/store/apps/developer?id=Spotlight+Technologies&hl=en_IN&gl=US), contributor, maintainer and mentor at [Mifos Initiative](https://mifos.org/).
 
 
 ## Things I am passionate about
